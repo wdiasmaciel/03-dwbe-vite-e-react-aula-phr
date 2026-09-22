@@ -7,7 +7,7 @@ export default function Principal() {
       <>
         <Header />
         <Banner />
-        <Avatar />
+        <Avatar url="https://thispersondoesnotexist.com/" nome="Usuário(a)"/>
       </>
     );
 }
