@@ -1,4 +1,4 @@
-export default function UserAvatar({ url, nome }) {
+export default function Avatar({ url, nome }) {
   return (
     <>
       <p>{nome}</p>
