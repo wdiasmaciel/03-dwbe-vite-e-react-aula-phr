@@ -1,4 +1,4 @@
-import logo from './assets/logo.png'; // Importação direta do caminho local
+import logo from './assets/logo.png'; // Importação direta do caminho local.
 
 function Header() {
   return (
