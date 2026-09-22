@@ -2,7 +2,7 @@ export default function Avatar({ url, nome }) {
   return (
     <>
       <img 
-        src={url || "https://via.placeholder.com/150"} 
+        src={url || "https://dummyjson.com/image/150"} 
         alt={`Foto de ${nome}`} 
         style={{ borderRadius: '50%', width: 50, height: 50 }} 
       />
